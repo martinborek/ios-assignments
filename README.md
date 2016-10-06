@@ -6,7 +6,5 @@ Author: Martin Borek
 #Assignment 1
 BASH script for Regression testing
 
-Implemented applications are Steganographic decoder for PPM images and Sieve of Eratosthenes.
-
 #Assignment 2
 C application implementing Readers–writers problem.
